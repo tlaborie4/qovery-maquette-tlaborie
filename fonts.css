@@ -1,0 +1,77 @@
+/* Polices d'écriture */
+@font-face
+{
+	font-family: 'hk_grotesk';
+	src: url('/fonts/HKGrotesk/hkgrotesk-bold-webfont.woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: 'hk_grotesk';
+	src: url('/fonts/HKGrotesk/hkgrotesk-bold-webfont.woff2') format('woff2'),         url('/fonts/HKGrotesk/hkgrotesk-bold-webfont.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: 'hk_grotesk';
+	src: url('/fonts/HKGrotesk/hkgrotesk-regular-webfont.woff2') format('woff2'),         url('/fonts/HKGrotesk/hkgrotesk-bold-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: 'SanFrancisco';
+	src: url('/fonts/SFUIText/SF-UI-Text-Regular.otf');
+	font-weight: 400;
+}
+
+@font-face
+{
+	font-family: 'SanFrancisco';
+	src: url('/fonts/SFUIText/SF-UI-Text-Medium.otf');
+	font-weight: 500;
+}
+
+@font-face
+{
+	font-family: 'SanFrancisco';
+	src: url('/fonts/SFUIText/SF-UI-Text-Semibold.otf');
+	font-weight: 600;
+}
+
+@font-face
+{
+	font-family: 'SanFrancisco';
+	src: url('/fonts/SFUIText/SF-UI-Text-Bold.otf');
+	font-weight: 700;
+}
+
+@font-face
+{
+	font-family: 'SF UI Text Regular';
+	font-style: normal;
+	font-weight: 800;
+	src: local('SF UI Text Regular'), url('/fonts/SFUIText/SF-UI-Text-Regular.otf') format('woff');
+}
+
+@font-face
+{
+	font-family: 'SF UI Text Semibold';
+	font-style: normal;
+	font-weight: normal;
+	src: local('SF UI Text Semibold'), url('/fonts/SFUIText/SF-UI-Text-Semibold.otf') format('woff');
+}
+
+@font-face
+{
+	font-family: 'SF UI Text Bold';
+	font-style: normal;
+	font-weight: normal;
+	src: local('SF UI Text Bold'), url('/fonts/SFUIText/SF-UI-Text-Bold.otf') format('woff');
+}
+
