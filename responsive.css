@@ -1,4 +1,16 @@
 
+@media screen and (min-width: 1221px){
+	section.section1{
+		min-height: 114vh;
+	}
+   section.section3{
+	margin-top: -160px;
+   }
+
+  
+	
+}
+
 @media screen and (max-width: 1220px) {
 	.right-part {
 	  width: 45%;
@@ -15,6 +27,11 @@
 	section.section2 .part2 img {
 	  width: 100%;
 	}
+
+section.section3{
+	margin-top: -260px;
+}
+
 	.qoveryusers {
 	  padding-bottom: 125px;
 	}
@@ -27,6 +44,7 @@
 	  justify-content: center;
 	  text-align: center;
 	  padding: 0 15px;
+	  margin-top: -160px;
 	}
 	.q_calltoaction2 {
 	  margin-bottom: -180px;
@@ -78,6 +96,7 @@
 	  justify-content: center;
 	  text-align: center;
 	  padding: 0 15px;
+	  margin-top: -160px;
 	}
 	.q_calltoaction2 {
 	  margin-bottom: -180px;
@@ -129,6 +148,7 @@
 	  justify-content: center;
 	  text-align: center;
 	  padding: 0 15px;
+	  margin-top: -160px;
 	}
 	.q_calltoaction2 {
 	  margin-bottom: -160px;
@@ -162,6 +182,7 @@
 	  justify-content: center;
 	  text-align: center;
 	  padding: 0 15px;
+	  margin-top: -160px;
 	}
 	.q_calltoaction2 {
 	  margin-bottom: -170px;
@@ -204,6 +225,11 @@
 	section.section2 .part1 h3 {
 	  padding-top: 75px;
 	}
+
+     section.section3{
+		 margin-top: -280px;
+	 }
+
 	section.section3 .text1 {
 	  display: flex;
 	  flex-direction: column;
@@ -288,6 +314,7 @@
 	  justify-content: center;
 	  text-align: center;
 	  padding: 0 15px;
+	  margin-top: -160px;
 	}
 	.qoveryusers {
 	  padding-bottom: 85px;
@@ -350,7 +377,7 @@
 	}
 
 	section.section1 {
-	  margin-bottom: -180px;
+	  margin-bottom: -90px;
 	}
 	section.section2 .part1 h2 {
 	  padding-top: 70px;
@@ -384,7 +411,7 @@
 	  margin-top: 22px;
 	}
 	section.section1 {
-	  margin-bottom: -180px;
+	  margin-bottom: -90px;
 	}
 
 
@@ -410,7 +437,7 @@
 	  padding-bottom: 10px;
 	}
 	section.section1 {
-	  margin-bottom: -180px;
+	  margin-bottom: -90px;
 	}
 	.text1 .box2 img {
 	  width: 90%;
@@ -454,11 +481,12 @@
 	  justify-content: center;
 	  text-align: center;
 	  padding: 0 15px;
+	  margin-top: -160px;
 	}
   }
   @media screen and (max-width: 499px) {
 	section.section1 {
-	  margin-bottom: -180px;
+	  margin-bottom: -90px;
 	}
 	footer {
 	  background-color: #151b2b;
@@ -469,6 +497,7 @@
 	  justify-content: center;
 	  text-align: center;
 	  padding: 0 15px;
+	  margin-top: -160px;
 	}
   }
   @media screen and (max-width: 410px) {
@@ -492,7 +521,7 @@
 	  margin-top: 22px;
 	}
 	section.section1 {
-	  margin-bottom: -180px;
+	  margin-bottom: -90px;
 	}
 
 	.left-part {
@@ -513,12 +542,12 @@
 	  padding: 8px 3px;
 	}
 	section.section1 {
-	  margin-bottom: -180px;
+	  margin-bottom: -90px;
 	}
   }
   @media screen and (max-width: 375px) {
 	section.section1 {
-	  margin-bottom: -140px;
+	  margin-bottom: -90px;
 	}
 	section.section1 .title h1 {
 	  font-size: 32px;
