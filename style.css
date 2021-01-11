@@ -166,7 +166,7 @@ section.section2 .part2 {
 	margin-top: -25px;
 }
 section.section2 .part2 .carbon-code1 img:nth-child(2) {
-	width: 98 !important;
+	width: 98% !important;
 	border-radius: 5px;
 	position: relative;
 }

@@ -10,6 +10,11 @@
    section.section2 .container .part1 h2{
 	margin-top: -60px;
 }
+
+section.section3{
+	margin-top: -220px;
+}
+
   
 	
 }
@@ -25,10 +30,10 @@
 	  margin-top: -50px;
 	}
 	section.section2 .part1 img {
-	  width: 90% !important;
+	  width: 90%;
 	}
 	section.section2 .part2 img {
-	  width: 100% !important;
+	  width: 100%;
 	}
 
 	section.section2 .container .part1 h2{
@@ -68,6 +73,11 @@ section.section3{
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
+
+	section.section3{
+		margin-top: -220px;
+	}
+
   }
   @media screen and (max-width: 1150px) {
 
@@ -90,10 +100,13 @@ section.section3{
 	  margin-bottom: -180px;
 	}
 
-	.q_github:hover {
-		background-color: #757582;
-		transition: background-color ease-in;
-		transition-duration: 0.3s;
+	
+  
+
+	 .q_github:hover {
+		background-color: #757582 !important;
+		transition: background-color ease-in !important;
+		transition-duration: 0.3s !important;
 	}
 	
 	.q_discord:hover {
@@ -101,6 +114,12 @@ section.section3{
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
+
+	section.section3{
+		margin-top: -220px;
+	}
+
+
   }
   @media screen and (max-width: 1136px) {
 	section.section3 .text1 {
@@ -306,7 +325,7 @@ section.section3{
 	}
 	
      section.section3{
-		 margin-top: -280px;
+		 margin-top: -220px;
 	 }
 
 	section.section3 .text1 {
@@ -456,6 +475,11 @@ section.section3{
 		min-height: 92vh;
 	}
 
+	section.section3{
+		margin-top: -220px;
+	}
+
+
 	.q_github:hover {
 		background-color: #757582;
 		transition: background-color ease-in;
@@ -526,6 +550,11 @@ section.section3{
 	section.section1 {
 	  margin-bottom: -90px;
 	}
+
+	section.section3{
+		margin-top: -227px;
+	}
+
 
 
 	.left-part {
