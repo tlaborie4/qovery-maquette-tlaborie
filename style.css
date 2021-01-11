@@ -152,7 +152,7 @@ section.section2 .part1 h2 {
 
 }
 section.section2 .part1 img {
-	width: 75%;
+	width: 75% !important;
 }
 section.section2 .carbon-code1 {
 	display: flex;
@@ -166,12 +166,12 @@ section.section2 .part2 {
 	margin-top: -25px;
 }
 section.section2 .part2 .carbon-code1 img:nth-child(2) {
-	width: 98%;
+	width: 98 !important;
 	border-radius: 5px;
 	position: relative;
 }
 section.section2 .part2 .carbon-code1 img:nth-child(1) {
-	width: 98%;
+	width: 98% !important;
 	position: absolute;
 	top: 0;
 	left: 2%;

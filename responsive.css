@@ -7,6 +7,9 @@
 	margin-top: -160px;
    }
 
+   section.section2 .container .part1 h2{
+	margin-top: -60px;
+}
   
 	
 }
@@ -22,10 +25,14 @@
 	  margin-top: -50px;
 	}
 	section.section2 .part1 img {
-	  width: 80%;
+	  width: 90% !important;
 	}
 	section.section2 .part2 img {
-	  width: 100%;
+	  width: 100% !important;
+	}
+
+	section.section2 .container .part1 h2{
+		margin-top: -60px;
 	}
 
 section.section3{
@@ -49,6 +56,18 @@ section.section3{
 	.q_calltoaction2 {
 	  margin-bottom: -180px;
 	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media screen and (max-width: 1150px) {
 
@@ -69,6 +88,18 @@ section.section3{
 	}
 	.q_calltoaction2 {
 	  margin-bottom: -180px;
+	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
 	}
   }
   @media screen and (max-width: 1136px) {
@@ -100,6 +131,18 @@ section.section3{
 	}
 	.q_calltoaction2 {
 	  margin-bottom: -180px;
+	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
 	}
   }
   @media screen and (max-width: 1014px) {
@@ -153,6 +196,18 @@ section.section3{
 	.q_calltoaction2 {
 	  margin-bottom: -160px;
 	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media screen and (max-width: 882px) {
 	.left-part {
@@ -187,6 +242,18 @@ section.section3{
 	.q_calltoaction2 {
 	  margin-bottom: -170px;
 	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media (max-width: 824px) and (min-width: 764px) {
 
@@ -207,6 +274,18 @@ section.section3{
 	  margin-top: -55px;
 	  margin-left: -90px;
 	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media screen and (max-width: 763px) {
 	.right-part {
@@ -214,18 +293,18 @@ section.section3{
 	}
 
     .container {
-	
 		padding-top: 180px;
 		margin: 0 auto;
+	}
+
+	section.section2 .container .part1 h2{
+		margin-top: -110px;
 	}
 
 	section.section1 {
 	  min-height: 80vh;
 	}
-	section.section2 .part1 h3 {
-	  padding-top: 75px;
-	}
-
+	
      section.section3{
 		 margin-top: -280px;
 	 }
@@ -349,6 +428,18 @@ section.section3{
 		  min-height: 92vh;
 	
 	  }
+
+	  .q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media screen and (max-width: 600px) {
 	.qoveryusers {
@@ -363,6 +454,18 @@ section.section3{
 
 	section.section1{
 		min-height: 92vh;
+	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
 	}
   }
   @media screen and (max-width: 539px) {
@@ -379,9 +482,7 @@ section.section3{
 	section.section1 {
 	  margin-bottom: -90px;
 	}
-	section.section2 .part1 h2 {
-	  padding-top: 70px;
-	}
+	
 
 	.left-part {
 		margin-top: -140px;
@@ -393,6 +494,18 @@ section.section3{
 	  section.section1{
 		  min-height: 92vh;
 	  }
+
+	  .q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media screen and (max-width: 527px) {
 	.q_btn {
@@ -425,6 +538,18 @@ section.section3{
 	  section.section1{
 		  min-height: 92vh;
 	  }
+
+	  .q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media screen and (max-width: 515px) {
 	.title {
@@ -483,6 +608,18 @@ section.section3{
 	  padding: 0 15px;
 	  margin-top: -160px;
 	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media screen and (max-width: 499px) {
 	section.section1 {
@@ -498,6 +635,18 @@ section.section3{
 	  text-align: center;
 	  padding: 0 15px;
 	  margin-top: -160px;
+	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
 	}
   }
   @media screen and (max-width: 410px) {
@@ -534,6 +683,18 @@ section.section3{
 	  section.section1{
 		  min-height: 92vh;
 	  }
+
+	  .q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media screen and (max-width: 385px) {
 	.q_btn:nth-child(1) {
@@ -543,6 +704,18 @@ section.section3{
 	}
 	section.section1 {
 	  margin-bottom: -90px;
+	}
+
+	.q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
 	}
   }
   @media screen and (max-width: 375px) {
@@ -582,6 +755,18 @@ section.section3{
 	  section.section1{
 		 min-height: 92vh;
 	  }
+
+	  .q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   @media screen and (max-width: 355px) {
 	.q_btn:nth-child(1) {
@@ -615,5 +800,17 @@ section.section3{
 	  section.section1{
 		  min-height: 92vh;
 	  }
+
+	  .q_github:hover {
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+	
+	.q_discord:hover {
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
   }
   
