@@ -120,14 +120,18 @@ section.section1 .left-part .logo img {
 	transition: background-color ease-in;
 	transition-duration: 0.3s;
 }
-.q_github a i {
-	width: 19px !important;
-}
+
+
 .q_discord:hover {
 	background-color: #90a3ea;
 	transition: background-color ease-in;
 	transition-duration: 0.3s;
 }
+
+.q_github a i {
+	width: 19px !important;
+}
+
 .q_discord a i {
 	width: 16px !important;
 }
@@ -142,10 +146,10 @@ section.section2 {
 }
 section.section2 .part1 h2 {
 	font-weight: 800;
-	padding-top: 40px;
 	font-family: 'hk_grotesk';
 	font-size: 32px;
 	color: #454658;
+
 }
 section.section2 .part1 img {
 	width: 75%;
