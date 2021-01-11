@@ -1,20 +1,7 @@
+
+
 /* GLOBAL */
-/* SECTION 1 : Accueil Qovery */
-/* <!--SECTION 2 : How does it work + Usage --> */
-/* SECTION 3 : KEYS [Part 1] */
-/* SECTION 3 : PARTENAIRES [Part 2] */
-/* FOOTER */
-/* ANIMATIONS DE TEXTE ET D'IMAGES */
-@keyframes HeroSlideIn {
-	0% {
-		transform: translateY(-10%);
-		opacity: 0;
-   }
-	100% {
-		transform: translateY(0);
-		opacity: 1;
-   }
-}
+
 * {
 	margin: 0;
 	padding: 0;
@@ -35,6 +22,10 @@ html {
 	align-items: center;
 	justify-content: center;
 }
+
+
+/* SECTION 1 : Accueil Qovery */
+
 .title {
 	display: flex;
 	align-items: baseline;
@@ -139,6 +130,10 @@ section.section1 .left-part .logo img {
 	opacity: 0;
 	animation: HeroSlideIn 1.5s forwards 0.2s ease;
 }
+
+
+/* SECTION 2 : How does it work + Usage */
+
 section.section2 {
 	background-color: #f9f9fd;
 	text-align: center;
@@ -188,6 +183,8 @@ section.section2 h2 {
 	font-weight: 200;
 	margin-top: 35px;
 }
+
+
 .text2 {
 	margin-top: 40px;
 }
@@ -239,6 +236,9 @@ a.q_btn {
 	margin-top: 48px;
 	margin-bottom: 141px;
 }
+
+/* SECTION 3 : KEYS [Part 1] */
+
 section.section3 {
 	background-color: #f9f9fd;
 	display: flex;
@@ -361,6 +361,9 @@ section.section3 .part2 h3 {
 .text1 .box2 {
 	width: 45%;
 }
+
+/* SECTION 3 : PARTENAIRES [Part 2] */
+
 .qoveryusers {
 	display: flex;
 	height: 100%;
@@ -379,6 +382,10 @@ section.section3 .part2 h3 {
 .qoveryusers img:nth-child(3) {
 	width: 30%;
 }
+
+
+/* FOOTER */
+
 footer {
 	background-color: #151b2b;
 	height: 130px;
@@ -397,4 +404,17 @@ footer h4:nth-child(2) {
 	display: flex;
 	margin-top: 5px;
 	font-weight: 500;
+}
+
+
+/* ANIMATIONS DE TEXTE ET D'IMAGES */
+@keyframes HeroSlideIn {
+	0% {
+		transform: translateY(-10%);
+		opacity: 0;
+   }
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+   }
 }

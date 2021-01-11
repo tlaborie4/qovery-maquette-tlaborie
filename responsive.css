@@ -1,845 +1,1139 @@
 
-@media screen and (min-width: 1221px){
-	section.section1{
+@media screen and (min-width: 1221px)
+{
+	section.section1
+	{
 		min-height: 114vh;
 	}
-   section.section3{
-	margin-top: -160px;
-   }
 
-   section.section2 .container .part1 h2{
-	margin-top: -60px;
-}
-
-section.section3{
-	margin-top: -220px;
-}
-
-  
-	
-}
-
-@media screen and (max-width: 1220px) {
-	.right-part {
-	  width: 45%;
-	}
-	.right-part img {
-	  width: 450px;
-	  height: 750px;
-	  padding-left: 0px;
-	  margin-top: -50px;
-	}
-	section.section2 .part1 img {
-	  width: 90%;
-	}
-	section.section2 .part2 img {
-	  width: 100%;
+	section.section3
+	{
+		margin-top: -160px;
 	}
 
-	section.section2 .container .part1 h2{
+	section.section2 .container .part1 h2
+	{
 		margin-top: -60px;
 	}
 
-section.section3{
-	margin-top: -260px;
+	section.section3
+	{
+		margin-top: -220px;
+	}
+
 }
 
-	.qoveryusers {
-	  padding-bottom: 125px;
-	}
-	footer {
-	  background-color: #151b2b;
-	  height: 130px;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  justify-content: center;
-	  text-align: center;
-	  padding: 0 15px;
-	  margin-top: -160px;
-	}
-	.q_calltoaction2 {
-	  margin-bottom: -180px;
+@media screen and (max-width: 1220px)
+{
+	.right-part
+	{
+		width: 45%;
 	}
 
-	.q_github:hover {
+	.right-part img
+	{
+		width: 450px;
+		height: 750px;
+		padding-left: 0px;
+		margin-top: -50px;
+	}
+
+	section.section2 .part1 img
+	{
+		width: 90%;
+	}
+
+	section.section2 .part2 img
+	{
+		width: 100%;
+	}
+
+	section.section2 .container .part1 h2
+	{
+		margin-top: -60px;
+	}
+
+	section.section3
+	{
+		margin-top: -260px;
+	}
+
+	.qoveryusers
+	{
+		padding-bottom: 125px;
+	}
+
+	footer
+	{
+		background-color: #151b2b;
+		height: 130px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		padding: 0 15px;
+		margin-top: -160px;
+	}
+
+	.q_calltoaction2
+	{
+		margin-bottom: -180px;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
 
-	section.section3{
+	section.section3
+	{
 		margin-top: -220px;
 	}
 
-  }
-  @media screen and (max-width: 1150px) {
+}
 
-	.container {
-	  width: 100%;
-	  padding: 120px 20px;
-	  box-sizing: border-box;
-  }
-  
-	section.section3 .part1 .seemore1:hover {
-	  width: 15%;
-	}
-	section.section3 .part1 .seemore2:hover {
-	  width: 15%;
-	}
-	.qoveryusers {
-	  padding-bottom: 125px;
-	}
-	.q_calltoaction2 {
-	  margin-bottom: -180px;
+@media screen and (max-width: 1150px)
+{
+	.container
+	{
+		width: 100%;
+		padding: 120px 20px;
+		box-sizing: border-box;
 	}
 
-	
-  
+	section.section3 .part1 .seemore1:hover
+	{
+		width: 15%;
+	}
 
-	 .q_github:hover {
+	section.section3 .part1 .seemore2:hover
+	{
+		width: 15%;
+	}
+
+	.qoveryusers
+	{
+		padding-bottom: 125px;
+	}
+
+	.q_calltoaction2
+	{
+		margin-bottom: -180px;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582 !important;
 		transition: background-color ease-in !important;
 		transition-duration: 0.3s !important;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
 
-	section.section3{
+	section.section3
+	{
 		margin-top: -220px;
 	}
 
+}
 
-  }
-  @media screen and (max-width: 1136px) {
-	section.section3 .text1 {
-	  justify-content: space-around;
-	}
-	section.section3 .text2 {
-	  justify-content: space-around;
-	}
-	section.section3 .part2 {
-	  padding-bottom: 55px;
-	}
-	.text2 .box4 img {
-	  width: 100%;
-	}
-	.qoveryusers {
-	  padding-bottom: 85px;
-	}
-	footer {
-	  background-color: #151b2b;
-	  height: 130px;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  justify-content: center;
-	  text-align: center;
-	  padding: 0 15px;
-	  margin-top: -160px;
-	}
-	.q_calltoaction2 {
-	  margin-bottom: -180px;
+@media screen and (max-width: 1136px)
+{
+	section.section3 .text1
+	{
+		justify-content: space-around;
 	}
 
-	.q_github:hover {
+	section.section3 .text2
+	{
+		justify-content: space-around;
+	}
+
+	section.section3 .part2
+	{
+		padding-bottom: 55px;
+	}
+
+	.text2 .box4 img
+	{
+		width: 100%;
+	}
+
+	.qoveryusers
+	{
+		padding-bottom: 85px;
+	}
+
+	footer
+	{
+		background-color: #151b2b;
+		height: 130px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		padding: 0 15px;
+		margin-top: -160px;
+	}
+
+	.q_calltoaction2
+	{
+		margin-bottom: -180px;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 1014px) {
-	.left-part {
-	  margin-top: -251px;
-	}
-	.left-part .title h1 {
-	  font-size: 36px;
-	}
-	.left-part h2 {
-	  font-size: 20px !important;
-	}
-	.left-part p {
-	  font-size: 14px !important;
-	}
-	.left-part h1 {
-	  margin-top: 95px;
-	  margin-bottom: 7px;
-	}
-	
-	.right-part {
-	  width: 45%;
-	  margin-top: -100px;
-	}
-	.right-part img {
-	  width: 350px;
-	  height: 750px;
-	  padding-left: 70px;
-	  margin-left: -50px;
-	}
-	section.section3 .part1 .seemore:hover {
-	  width: 25%;
-	}
-	section.section3 .part1 .seemore2:hover {
-	  width: 22.2%;
-	}
-	section.section3 .part2 {
-	  padding-bottom: 55px;
-	}
-	footer {
-	  background-color: #151b2b;
-	  height: 130px;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  justify-content: center;
-	  text-align: center;
-	  padding: 0 15px;
-	  margin-top: -160px;
-	}
-	.q_calltoaction2 {
-	  margin-bottom: -160px;
+
+}
+
+@media screen and (max-width: 1014px)
+{
+	.left-part
+	{
+		margin-top: -251px;
 	}
 
-	.q_github:hover {
+	.left-part .title h1
+	{
+		font-size: 36px;
+	}
+
+	.left-part h2
+	{
+		font-size: 20px !important;
+	}
+
+	.left-part p
+	{
+		font-size: 14px !important;
+	}
+
+	.left-part h1
+	{
+		margin-top: 95px;
+		margin-bottom: 7px;
+	}
+
+	.right-part
+	{
+		width: 45%;
+		margin-top: -100px;
+	}
+
+	.right-part img
+	{
+		width: 350px;
+		height: 750px;
+		padding-left: 70px;
+		margin-left: -50px;
+	}
+
+	section.section3 .part1 .seemore:hover
+	{
+		width: 25%;
+	}
+
+	section.section3 .part1 .seemore2:hover
+	{
+		width: 22.2%;
+	}
+
+	section.section3 .part2
+	{
+		padding-bottom: 55px;
+	}
+
+	footer
+	{
+		background-color: #151b2b;
+		height: 130px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		padding: 0 15px;
+		margin-top: -160px;
+	}
+
+	.q_calltoaction2
+	{
+		margin-bottom: -160px;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 882px) {
-	.left-part {
-	  margin-top: -281px;
-	}
-	.left-part .title h1 {
-	  font-size: 34.9px;
-	}
-	.left-part h1 {
-	  margin-top: 120px;
-	  margin-bottom: 7px;
-	}
-	.right-part img {
-	  margin-left: -50px;
-	  margin-top: -20px;
-	  margin-left: -90px;
-	}
-	section.section3 .part2 {
-	  padding-bottom: 55px;
-	}
-	footer {
-	  background-color: #151b2b;
-	  height: 130px;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  justify-content: center;
-	  text-align: center;
-	  padding: 0 15px;
-	  margin-top: -160px;
-	}
-	.q_calltoaction2 {
-	  margin-bottom: -170px;
+
+}
+
+@media screen and (max-width: 882px)
+{
+	.left-part
+	{
+		margin-top: -281px;
 	}
 
-	.q_github:hover {
+	.left-part .title h1
+	{
+		font-size: 34.9px;
+	}
+
+	.left-part h1
+	{
+		margin-top: 120px;
+		margin-bottom: 7px;
+	}
+
+	.right-part img
+	{
+		margin-left: -50px;
+		margin-top: -20px;
+		margin-left: -90px;
+	}
+
+	section.section3 .part2
+	{
+		padding-bottom: 55px;
+	}
+
+	footer
+	{
+		background-color: #151b2b;
+		height: 130px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		padding: 0 15px;
+		margin-top: -160px;
+	}
+
+	.q_calltoaction2
+	{
+		margin-bottom: -170px;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media (max-width: 824px) and (min-width: 764px) {
 
-	
-	.title {
-	  display: flex;
-	  align-items: baseline;
-	  flex-direction: column;
-	}
-	.left-part {
-	  margin-top: -241px;
-	}
-	.left-part h1 {
-	  margin-top: 65px;
-	  margin-bottom: 7px;
-	}
-	.right-part img {
-	  margin-top: -55px;
-	  margin-left: -90px;
+}
+
+@media (max-width: 824px) and (min-width: 764px)
+{
+	.title
+	{
+		display: flex;
+		align-items: baseline;
+		flex-direction: column;
 	}
 
-	.q_github:hover {
+	.left-part
+	{
+		margin-top: -241px;
+	}
+
+	.left-part h1
+	{
+		margin-top: 65px;
+		margin-bottom: 7px;
+	}
+
+	.right-part img
+	{
+		margin-top: -55px;
+		margin-left: -90px;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 763px) {
-	.right-part {
-	  display: none;
+
+}
+
+@media screen and (max-width: 763px)
+{
+	.right-part
+	{
+		display: none;
 	}
 
-    .container {
+	.container
+	{
 		padding-top: 180px;
 		margin: 0 auto;
 	}
 
-	section.section2 .container .part1 h2{
+	section.section2 .container .part1 h2
+	{
 		margin-top: -110px;
 	}
 
-	section.section1 {
-	  min-height: 80vh;
-	}
-	
-     section.section3{
-		 margin-top: -220px;
-	 }
-
-	section.section3 .text1 {
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  justify-content: center;
-	  gap: 100px;
-	}
-	section.section3 .text1 .box1 {
-	  width: 80%;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  text-align: center;
-	  margin-bottom: 20px;
-	}
-	section.section3 .text1 .box2 {
-	  width: 70%;
-	  margin-bottom: 55px;
-	}
-	section.section3 .text1 img {
-	  display: flex;
-	  align-items: center;
-	  justify-content: center;
-	}
-	section.section3 .text2 {
-	  display: flex;
-	  flex-direction: column;
-	  justify-content: space-between;
-	  align-items: center;
-	  justify-content: center;
-	}
-	section.section3 .text2 .box3 {
-	  width: 80%;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  text-align: center;
-	  margin-bottom: 128px;
-	}
-	section.section3 .text2 .box4 {
-	  width: 80%;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  text-align: center;
-	}
-	section.section3 .part2 {
-	  padding-bottom: 55px;
-	}
-	section.section3 .part1 .seemore {
-	  font-size: 13px;
-	  width: 60px;
-	}
-	section.section3 .part1 .seemore:hover {
-	  width: 10%;
-	  font-size: 13px;
-	  width: 60px;
-	}
-	section.section3 .part1 .seemore2 {
-	  font-size: 13px;
-	  width: 60px;
-	}
-	section.section3 .part1 .seemore2:hover {
-	  width: 20%;
-	  font-size: 13px;
-	  width: 60px;
-	}
-	.box2 {
-	  width: 80%;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  text-align: center;
-	  margin-bottom: 20px;
-	}
-	footer {
-	  background-color: #151b2b;
-	  height: 130px;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  justify-content: center;
-	  text-align: center;
-	  padding: 0 15px;
-	  margin-top: -160px;
-	}
-	.qoveryusers {
-	  padding-bottom: 85px;
-	  display: flex;
-	  align-items: center;
-	  justify-content: center;
-	  flex-direction: column;
-	  gap: 50px;
-	}
-	.qoveryusers img:nth-child(1) {
-	  width: 80%;
-	}
-	.qoveryusers img:nth-child(2) {
-	  width: 59%;
-	}
-	.qoveryusers img:nth-child(3) {
-	  width: 69%;
-	}
-	
-	.q_calltoaction2 {
-	  margin-bottom: -180px;
+	section.section1
+	{
+		min-height: 80vh;
 	}
 
-	.left-part {
-		margin-top: -140px;
-	  }
-	  .left-part h1 {
-		margin-top: 52px;
-	  }
-  
-	  section.section1{
-		  min-height: 92vh;
-	
-	  }
-
-	  .q_github:hover {
-		background-color: #757582;
-		transition: background-color ease-in;
-		transition-duration: 0.3s;
-	}
-	
-	.q_discord:hover {
-		background-color: #90a3ea;
-		transition: background-color ease-in;
-		transition-duration: 0.3s;
-	}
-  }
-  @media screen and (max-width: 600px) {
-	.qoveryusers {
-	  padding-bottom: 85px;
-	}
-	.left-part {
-	  margin-top: -140px;
-	}
-	.left-part h1 {
-	  margin-top: 52px;
-	}
-
-	section.section1{
-		min-height: 92vh;
-	}
-
-	section.section3{
+	section.section3
+	{
 		margin-top: -220px;
 	}
 
-
-	.q_github:hover {
-		background-color: #757582;
-		transition: background-color ease-in;
-		transition-duration: 0.3s;
-	}
-	
-	.q_discord:hover {
-		background-color: #90a3ea;
-		transition: background-color ease-in;
-		transition-duration: 0.3s;
-	}
-  }
-  @media screen and (max-width: 539px) {
-	.title {
-	  display: flex;
-	  align-items: baseline;
-	  flex-direction: column;
-	}
-	.title h1 {
-	  padding-top: 12px;
-	  padding-bottom: 10px;
+	section.section3 .text1
+	{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		gap: 100px;
 	}
 
-	section.section1 {
-	  margin-bottom: -90px;
+	section.section3 .text1 .box1
+	{
+		width: 80%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+		margin-bottom: 20px;
 	}
-	
 
-	.left-part {
+	section.section3 .text1 .box2
+	{
+		width: 70%;
+		margin-bottom: 55px;
+	}
+
+	section.section3 .text1 img
+	{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	section.section3 .text2
+	{
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+		justify-content: center;
+	}
+
+	section.section3 .text2 .box3
+	{
+		width: 80%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+		margin-bottom: 128px;
+	}
+
+	section.section3 .text2 .box4
+	{
+		width: 80%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+	}
+
+	section.section3 .part2
+	{
+		padding-bottom: 55px;
+	}
+
+	section.section3 .part1 .seemore
+	{
+		font-size: 13px;
+		width: 60px;
+	}
+
+	section.section3 .part1 .seemore:hover
+	{
+		width: 10%;
+		font-size: 13px;
+		width: 60px;
+	}
+
+	section.section3 .part1 .seemore2
+	{
+		font-size: 13px;
+		width: 60px;
+	}
+
+	section.section3 .part1 .seemore2:hover
+	{
+		width: 20%;
+		font-size: 13px;
+		width: 60px;
+	}
+
+	.box2
+	{
+		width: 80%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	footer
+	{
+		background-color: #151b2b;
+		height: 130px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		padding: 0 15px;
+		margin-top: -160px;
+	}
+
+	.qoveryusers
+	{
+		padding-bottom: 85px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		gap: 50px;
+	}
+
+	.qoveryusers img:nth-child(1)
+	{
+		width: 80%;
+	}
+
+	.qoveryusers img:nth-child(2)
+	{
+		width: 59%;
+	}
+
+	.qoveryusers img:nth-child(3)
+	{
+		width: 69%;
+	}
+
+	.q_calltoaction2
+	{
+		margin-bottom: -180px;
+	}
+
+	.left-part
+	{
 		margin-top: -140px;
-	  }
-	  .left-part h1 {
-		margin-top: 22px;
-	  }
-  
-	  section.section1{
-		  min-height: 92vh;
-	  }
+	}
 
-	  .q_github:hover {
+	.left-part h1
+	{
+		margin-top: 52px;
+	}
+
+	section.section1
+	{
+		min-height: 92vh;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 527px) {
-	.q_btn {
-	  padding: 9px 12px;
-	  font-size: 11px;
-	}
-	.q_calltoaction2 {
-	  font-size: 12px;
-	  padding: 9px 12px;
-	  margin-bottom: -180px;
-	}
-	.left-part {
-	  margin-top: -180px;
-	}
-	.left-part h1 {
-	  margin-top: 22px;
-	}
-	section.section1 {
-	  margin-bottom: -90px;
+
+}
+
+@media screen and (max-width: 600px)
+{
+	.qoveryusers
+	{
+		padding-bottom: 85px;
 	}
 
-	section.section3{
+	.left-part
+	{
+		margin-top: -140px;
+	}
+
+	.left-part h1
+	{
+		margin-top: 52px;
+	}
+
+	section.section1
+	{
+		min-height: 92vh;
+	}
+
+	section.section3
+	{
+		margin-top: -220px;
+	}
+
+	.q_github:hover
+	{
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+
+	.q_discord:hover
+	{
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+
+}
+
+@media screen and (max-width: 539px)
+{
+	.title
+	{
+		display: flex;
+		align-items: baseline;
+		flex-direction: column;
+	}
+
+	.title h1
+	{
+		padding-top: 12px;
+		padding-bottom: 10px;
+	}
+
+	section.section1
+	{
+		margin-bottom: -90px;
+	}
+
+	.left-part
+	{
+		margin-top: -140px;
+	}
+
+	.left-part h1
+	{
+		margin-top: 22px;
+	}
+
+	section.section1
+	{
+		min-height: 92vh;
+	}
+
+	.q_github:hover
+	{
+		background-color: #757582;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+
+	.q_discord:hover
+	{
+		background-color: #90a3ea;
+		transition: background-color ease-in;
+		transition-duration: 0.3s;
+	}
+
+}
+
+@media screen and (max-width: 527px)
+{
+	.q_btn
+	{
+		padding: 9px 12px;
+		font-size: 11px;
+	}
+
+	.q_calltoaction2
+	{
+		font-size: 12px;
+		padding: 9px 12px;
+		margin-bottom: -180px;
+	}
+
+	.left-part
+	{
+		margin-top: -180px;
+	}
+
+	.left-part h1
+	{
+		margin-top: 22px;
+	}
+
+	section.section1
+	{
+		margin-bottom: -90px;
+	}
+
+	section.section3
+	{
 		margin-top: -227px;
 	}
 
-
-
-	.left-part {
+	.left-part
+	{
 		margin-top: -140px;
-	  }
-	  .left-part h1 {
+	}
+
+	.left-part h1
+	{
 		margin-top: 52px;
-	  }
-  
-	  section.section1{
-		  min-height: 92vh;
-	  }
+	}
 
-	  .q_github:hover {
+	section.section1
+	{
+		min-height: 92vh;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 515px) {
-	.title {
-	  display: flex;
-	  align-items: baseline;
-	  flex-direction: column;
-	}
-	.title h1 {
-	  padding-top: 12px;
-	  padding-bottom: 10px;
-	}
-	section.section1 {
-	  margin-bottom: -90px;
-	}
-	.text1 .box2 img {
-	  width: 90%;
-	}
-	.text2 .box3 img {
-	  width: 70%;
-	}
-	.text2 .box4 img {
-	  width: 90%;
-	}
-	section.section3 {
-	  background-color: #F9F9FD;
-	  display: flex;
-	  text-align: center;
-	  align-items: center;
-	  justify-content: center;
-	}
-	section.section3 .text1 img:nth-child(1) {
-	  display: flex;
-	  flex-direction: column;
-	  justify-content: center;
-	  align-items: center;
-	  width: 41%;
-	}
-	section.section3 .text2 img {
-	  display: flex;
-	  flex-direction: column;
-	  justify-content: center;
-	  align-items: center;
-	  width: 43%;
-	}
-	.qoveryusers {
-	  padding-bottom: 85px;
-	}
-	footer {
-	  background-color: #151b2b;
-	  height: 130px;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  justify-content: center;
-	  text-align: center;
-	  padding: 0 15px;
-	  margin-top: -160px;
+
+}
+
+@media screen and (max-width: 515px)
+{
+	.title
+	{
+		display: flex;
+		align-items: baseline;
+		flex-direction: column;
 	}
 
-	.q_github:hover {
+	.title h1
+	{
+		padding-top: 12px;
+		padding-bottom: 10px;
+	}
+
+	section.section1
+	{
+		margin-bottom: -90px;
+	}
+
+	.text1 .box2 img
+	{
+		width: 90%;
+	}
+
+	.text2 .box3 img
+	{
+		width: 70%;
+	}
+
+	.text2 .box4 img
+	{
+		width: 90%;
+	}
+
+	section.section3
+	{
+		background-color: #F9F9FD;
+		display: flex;
+		text-align: center;
+		align-items: center;
+		justify-content: center;
+	}
+
+	section.section3 .text1 img:nth-child(1)
+	{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		width: 41%;
+	}
+
+	section.section3 .text2 img
+	{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		width: 43%;
+	}
+
+	.qoveryusers
+	{
+		padding-bottom: 85px;
+	}
+
+	footer
+	{
+		background-color: #151b2b;
+		height: 130px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		padding: 0 15px;
+		margin-top: -160px;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 499px) {
-	section.section1 {
-	  margin-bottom: -90px;
-	}
-	footer {
-	  background-color: #151b2b;
-	  height: 130px;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  justify-content: center;
-	  text-align: center;
-	  padding: 0 15px;
-	  margin-top: -160px;
+
+}
+
+@media screen and (max-width: 499px)
+{
+	section.section1
+	{
+		margin-bottom: -90px;
 	}
 
-	.q_github:hover {
+	footer
+	{
+		background-color: #151b2b;
+		height: 130px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		padding: 0 15px;
+		margin-top: -160px;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 410px) {
-	.q_btn:nth-child(1) {
-	  margin-right: 16px;
-	  background: #454658;
-	  padding: 8px 3px;
-	}
-	.q_calltoaction2 .q_btn:nth-child(1) {
-	  font-size: 11px;
-	  padding: 8px 16px;
-	}
-	.q_calltoaction2 .q_btn:nth-child(2) {
-	  font-size: 11px;
-	  padding: 8px 16px;
-	}
-	.left-part {
-	  margin-top: -180px;
-	}
-	.left-part h1 {
-	  margin-top: 22px;
-	}
-	section.section1 {
-	  margin-bottom: -90px;
+
+}
+
+@media screen and (max-width: 410px)
+{
+	.q_btn:nth-child(1)
+	{
+		margin-right: 16px;
+		background: #454658;
+		padding: 8px 3px;
 	}
 
-	.left-part {
+	.q_calltoaction2 .q_btn:nth-child(1)
+	{
+		font-size: 11px;
+		padding: 8px 16px;
+	}
+
+	.q_calltoaction2 .q_btn:nth-child(2)
+	{
+		font-size: 11px;
+		padding: 8px 16px;
+	}
+
+	.left-part
+	{
+		margin-top: -180px;
+	}
+
+	.left-part h1
+	{
+		margin-top: 22px;
+	}
+
+	section.section1
+	{
+		margin-bottom: -90px;
+	}
+
+	.left-part
+	{
 		margin-top: -140px;
-	  }
-	  .left-part h1 {
+	}
+
+	.left-part h1
+	{
 		margin-top: 52px;
-	  }
-  
-	  section.section1{
-		  min-height: 92vh;
-	  }
+	}
 
-	  .q_github:hover {
+	section.section1
+	{
+		min-height: 92vh;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 385px) {
-	.q_btn:nth-child(1) {
-	  margin-right: 10px;
-	  background: #454658;
-	  padding: 8px 3px;
-	}
-	section.section1 {
-	  margin-bottom: -90px;
+
+}
+
+@media screen and (max-width: 385px)
+{
+	.q_btn:nth-child(1)
+	{
+		margin-right: 10px;
+		background: #454658;
+		padding: 8px 3px;
 	}
 
-	.q_github:hover {
+	section.section1
+	{
+		margin-bottom: -90px;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 375px) {
-	section.section1 {
-	  margin-bottom: -90px;
-	}
-	section.section1 .title h1 {
-	  font-size: 32px;
-	}
-	.left-part {
-	  margin-top: -270px;
-	}
-	.left-part h1 {
-	  margin-top: 23px;
-	}
-	.left-part h2 {
-	  font-size: 10px;
-	}
-	.q_calltoaction {
-	  margin-bottom: -210px;
-	}
-	.q_btn:nth-child(2) {
-	  padding: 8px 3px;
-	}
-	.q_btn:nth-child(1) {
-	  margin-right: 6px;
-	  padding: 8px 2px;
+
+}
+
+@media screen and (max-width: 375px)
+{
+	section.section1
+	{
+		margin-bottom: -90px;
 	}
 
-	.left-part {
+	section.section1 .title h1
+	{
+		font-size: 32px;
+	}
+
+	.left-part
+	{
+		margin-top: -270px;
+	}
+
+	.left-part h1
+	{
+		margin-top: 23px;
+	}
+
+	.left-part h2
+	{
+		font-size: 10px;
+	}
+
+	.q_calltoaction
+	{
+		margin-bottom: -210px;
+	}
+
+	.q_btn:nth-child(2)
+	{
+		padding: 8px 3px;
+	}
+
+	.q_btn:nth-child(1)
+	{
+		margin-right: 6px;
+		padding: 8px 2px;
+	}
+
+	.left-part
+	{
 		margin-top: -140px;
-	  }
-	  .left-part h1 {
-		margin-top: 52px;
-	  }
-  
-	  section.section1{
-		 min-height: 92vh;
-	  }
+	}
 
-	  .q_github:hover {
+	.left-part h1
+	{
+		margin-top: 52px;
+	}
+
+	section.section1
+	{
+		min-height: 101vh;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  @media screen and (max-width: 355px) {
-	.q_btn:nth-child(1) {
-	  margin-right: 16px;
-	  padding: 5px 0px;
-	}
-	.q_btn:nth-child(2) {
-	  margin-right: 16px;
-	  padding: 5px 0px;
-	}
-	.q_calltoaction2 .q_btn:nth-child(1) {
-	  font-size: 9px;
-	  padding: 8px 16px;
-	}
-	.q_calltoaction2 .q_btn:nth-child(2) {
-	  font-size: 9px;
-	  padding: 8px 16px;
-	}
-	.left-part {
-	  margin-top: -340px;
+
+}
+
+@media screen and (max-width: 355px)
+{
+	.q_btn:nth-child(1)
+	{
+		margin-right: 16px;
+		padding: 5px 0px;
 	}
 
+	.q_btn:nth-child(2)
+	{
+		margin-right: 16px;
+		padding: 5px 0px;
+	}
 
-	.left-part {
+	.q_calltoaction2 .q_btn:nth-child(1)
+	{
+		font-size: 9px;
+		padding: 8px 16px;
+	}
+
+	.q_calltoaction2 .q_btn:nth-child(2)
+	{
+		font-size: 9px;
+		padding: 8px 16px;
+	}
+
+	.left-part
+	{
+		margin-top: -340px;
+	}
+
+	.left-part
+	{
 		margin-top: -140px;
-	  }
-	  .left-part h1 {
-		margin-top: 52px;
-	  }
-  
-	  section.section1{
-		  min-height: 92vh;
-	  }
+	}
 
-	  .q_github:hover {
+	.left-part h1
+	{
+		margin-top: 52px;
+	}
+
+	section.section1
+	{
+		min-height: 105vh;
+	}
+
+	.q_github:hover
+	{
 		background-color: #757582;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-	
-	.q_discord:hover {
+
+	.q_discord:hover
+	{
 		background-color: #90a3ea;
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
-  }
-  
+
+}
