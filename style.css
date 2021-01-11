@@ -82,12 +82,12 @@ section.section1 .left-part .logo img {
 .left-part {
 	opacity: 0;
 	animation: HeroSlideIn 1s forwards 0.2s ease;
-	margin-top: -170px;
+	margin-top: -240px;
 	max-width: 670px;
 	margin-right: 70px;
 }
 .left-part h1 {
-	margin-top: 150px;
+	margin-top: 200px;
 }
 .q_calltoaction {
 	display: flex;
