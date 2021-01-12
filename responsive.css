@@ -23,7 +23,7 @@
 
 	.left-part
 	{
-		margin-top: -281px;
+		margin-top: -141px;
 	}
 
 	
@@ -37,14 +37,14 @@
 	{
 		width: 45%;
 		margin-top: -100px;
+
 	}
 
 	.right-part img
 	{
-		width: 450px;
-		height: 750px;
-		padding-left: 0px;
-		margin-top: -50px;
+		margin-top: -20px;
+		width: 540px;
+		
 	}
 
 	
@@ -86,23 +86,7 @@
 		margin-top: -260px;
 	}
 
-	.qoveryusers
-	{
-		padding-bottom: 125px;
-	}
-
-	footer
-	{
-		background-color: #151b2b;
-		height: 130px;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-		text-align: center;
-		padding: 0 15px;
-		margin-top: -160px;
-	}
+	
 
 	.q_calltoaction2
 	{
@@ -146,6 +130,7 @@
 		margin-top: -100px;
 	}
 
+
 }
 
 @media screen and (max-width: 1150px)
@@ -169,7 +154,20 @@
 
 	.qoveryusers
 	{
-		padding-bottom: 125px;
+		padding-bottom:80px;
+	}
+
+	footer
+	{
+		background-color: #151b2b;
+		height: 130px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		padding: 0 15px;
+		margin-top: -110px;
 	}
 
 	.q_calltoaction2
@@ -240,7 +238,7 @@
 
 	.qoveryusers
 	{
-		padding-bottom: 85px;
+		padding-bottom:25px;
 	}
 
 	footer
@@ -253,8 +251,9 @@
 		justify-content: center;
 		text-align: center;
 		padding: 0 15px;
-		margin-top: -160px;
+		margin-top: -110px;
 	}
+
 
 	.q_calltoaction2
 	{
@@ -352,6 +351,11 @@
 		padding-bottom: 55px;
 	}
 
+	.qoveryusers
+	{
+		padding-bottom:25px;
+	}
+
 	footer
 	{
 		background-color: #151b2b;
@@ -362,8 +366,9 @@
 		justify-content: center;
 		text-align: center;
 		padding: 0 15px;
-		margin-top: -160px;
+		margin-top: -110px;
 	}
+
 
 	.q_calltoaction2
 	{
@@ -416,6 +421,11 @@
 		padding-bottom: 55px;
 	}
 
+	.qoveryusers
+	{
+		padding-bottom:25px;
+	}
+
 	footer
 	{
 		background-color: #151b2b;
@@ -426,8 +436,9 @@
 		justify-content: center;
 		text-align: center;
 		padding: 0 15px;
-		margin-top: -160px;
+		margin-top: -110px;
 	}
+
 
 	.q_calltoaction2
 	{
@@ -489,6 +500,25 @@
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
+
+	.qoveryusers
+	{
+		padding-bottom:25px;
+	}
+
+	footer
+	{
+		background-color: #151b2b;
+		height: 130px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+		padding: 0 15px;
+		margin-top: -110px;
+	}
+
 
 }
 
@@ -621,6 +651,19 @@
 		margin-bottom: 20px;
 	}
 
+
+
+	.qoveryusers
+	{
+		padding-bottom: 25px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		gap: 50px;
+	}
+
+
 	footer
 	{
 		background-color: #151b2b;
@@ -631,18 +674,9 @@
 		justify-content: center;
 		text-align: center;
 		padding: 0 15px;
-		margin-top: -160px;
+		margin-top: -110px;
 	}
 
-	.qoveryusers
-	{
-		padding-bottom: 85px;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		flex-direction: column;
-		gap: 50px;
-	}
 
 	.qoveryusers img:nth-child(1)
 	{
@@ -699,7 +733,7 @@
 {
 	.qoveryusers
 	{
-		padding-bottom: 85px;
+		padding-bottom: 25px;
 	}
 
 	.left-part
@@ -787,6 +821,14 @@
 		transition-duration: 0.3s;
 	}
 
+	.qoveryusers
+	{
+		padding-bottom:25px;
+	}
+
+	
+
+
 }
 
 @media screen and (max-width: 527px)
@@ -852,6 +894,7 @@
 		transition: background-color ease-in;
 		transition-duration: 0.3s;
 	}
+
 
 }
 
@@ -919,7 +962,12 @@
 
 	.qoveryusers
 	{
-		padding-bottom: 85px;
+		padding-bottom:25px;
+	}
+
+	.qoveryusers
+	{
+		padding-bottom:25px;
 	}
 
 	footer
@@ -932,8 +980,9 @@
 		justify-content: center;
 		text-align: center;
 		padding: 0 15px;
-		margin-top: -160px;
+		margin-top: -110px;
 	}
+
 
 	.q_github:hover
 	{
@@ -958,6 +1007,11 @@
 		margin-bottom: -90px;
 	}
 
+	.qoveryusers
+	{
+		padding-bottom:25px;
+	}
+
 	footer
 	{
 		background-color: #151b2b;
@@ -968,7 +1022,7 @@
 		justify-content: center;
 		text-align: center;
 		padding: 0 15px;
-		margin-top: -160px;
+		margin-top: -110px;
 	}
 
 	.q_github:hover
